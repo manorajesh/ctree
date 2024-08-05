@@ -1,4 +1,5 @@
 # CTree
+![Build](https://github.com/manorajesh/ctree/actions/workflows/c-cpp.yml/badge.svg)
 
 CTree prints a directory tree to the console with a little coloring for spice.
 
